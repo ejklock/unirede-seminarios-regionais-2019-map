@@ -253,7 +253,7 @@ function initMap() {
         "    </p>" +
         "    <p>" +
         "      Acesse a página do evento," +
-        "      <a" +
+        "      <a target='parent'" +
         '        href="https://www.aunirede.org.br/portal/seminarios-regionais-unirede-2019/centro-oeste/"' +
         "        >https://www.aunirede.org.br/portal/seminarios-regionais-unirede-2019/centro-oeste/</a" +
         "      >" +
