@@ -252,7 +252,7 @@ function initMap() {
         "        <div><span> SETEC/UFMT</span></div>" +
         "    </p>" +
         "    <p>" +
-        "      Acesse a página do evento," +
+        "      Acesse a página do evento:" +
         "      <a target='parent'" +
         '        href="https://www.aunirede.org.br/portal/seminarios-regionais-unirede-2019/centro-oeste/"' +
         "        >https://www.aunirede.org.br/portal/seminarios-regionais-unirede-2019/centro-oeste/</a" +
@@ -280,8 +280,8 @@ function initMap() {
         "         " +
         "      </p>" +
         "      <p>" +
-        "        Acesse a página do evento," +
-        "        <a" +
+        "        Acesse a página do evento:" +
+        "        <a  target='parent'" +
         '          href="https://www.aunirede.org.br/portal/seminarios-regionais-unirede-2019/sul/"' +
         "          >https://www.aunirede.org.br/portal/seminarios-regionais-unirede-2019/sul/</a" +
         "        >" +
@@ -308,8 +308,8 @@ function initMap() {
         "         " +
         "      </p>" +
         "      <p>" +
-        "        Acesse a página do evento," +
-        "        <a" +
+        "        Acesse a página do evento:" +
+        "        <a  target='parent'" +
         '          href="https://www.aunirede.org.br/portal/seminarios-regionais-unirede-2019/norte/"' +
         "          >https://www.aunirede.org.br/portal/seminarios-regionais-unirede-2019/norte/</a" +
         "        >" +
@@ -336,8 +336,8 @@ function initMap() {
         "         " +
         "      </p>" +
         "      <p>" +
-        "        Acesse a página do evento," +
-        "        <a" +
+        "        Acesse a página do evento:" +
+        "        <a  target='parent'" +
         '          href="https://www.aunirede.org.br/portal/seminarios-regionais-unirede-2019/nordeste/"' +
         "          >https://www.aunirede.org.br/portal/seminarios-regionais-unirede-2019/nordeste/</a" +
         "        >" +
