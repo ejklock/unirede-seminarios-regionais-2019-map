@@ -275,8 +275,8 @@ function initMap() {
         "    </h1>" +
         '    <div id="bodyContent">' +
         "      <p>" +
-        "          <div><span><strong>Data:</strong> 15 à 16/04/2019 </span></div>" +
-        "          <div><span><strong>Local:</strong> UNIVERSIDADE FEDERAL DE SANTA CATARINA - FLORIANÓPOLIS</span></div>" +
+        "          <div><span><strong>Data:</strong> 20 à 21/04/2019 </span></div>" +
+        "          <div><span><strong>Local:</strong> UNIVERSIDADE ESTADUAL DE SANTA CATARINA - FLORIANÓPOLIS</span></div>" +
         "         " +
         "      </p>" +
         "      <p>" +
