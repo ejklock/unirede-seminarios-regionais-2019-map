@@ -331,7 +331,7 @@ function initMap() {
         "    </h1>" +
         '    <div id="bodyContent">' +
         "      <p>" +
-        "          <div><span><strong>Data:</strong> 24 à 25/04/2019 </span></div>" +
+        "          <div><span><strong>Data:</strong> 14 à 15/05/2019 </span></div>" +
         "          <div><span><strong>Local:</strong> UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE</span></div>" +
         "         " +
         "      </p>" +
@@ -359,7 +359,7 @@ function initMap() {
         "    </h1>" +
         '    <div id="bodyContent">' +
         "      <p>" +
-        "          <div><span><strong>Data:</strong> 09 à 10/04/2019 </span></div>" +
+        "          <div><span><strong>Data:</strong> 09 à 10/05/2019 </span></div>" +
         "          <div><span><strong>Local:</strong> UNIVERSIDADE FEDERAL DE UBERLÂNDIA - UFU</span></div>" +
         "         " +
         "      </p>" +
